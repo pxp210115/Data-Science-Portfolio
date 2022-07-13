@@ -19,6 +19,20 @@ Algorithms used:-
 
 1) Content-based Filtering :- 
 
+2) 
+
+3)
+
+4)
+
+
+
+
+
+## Computer Vision
+
+
+
 
 
 
