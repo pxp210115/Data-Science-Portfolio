@@ -8,7 +8,7 @@ Similarity between two users can be calculated using this score:-
 
 ![image](https://user-images.githubusercontent.com/100412162/178848297-468a0e72-b18c-4186-a84c-b1b981461b0f.png)
 
-## About the data:-
+## [About the data](https://github.com/pxp210115/Data-Science-Portfolio/blob/rev_2/Content_based_filtering/README.MD):-
 
 Can be seen in the link above.
 
