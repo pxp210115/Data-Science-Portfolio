@@ -10,9 +10,9 @@ We reciprocate the matrix used for User-based collaborative filtering for item-b
 
 It is important that we create the item similarity scores based on the common users who have seen both the items.
 
-## About the data:-
+## [About the data](https://github.com/pxp210115/Data-Science-Portfolio/blob/rev_2/Content_based_filtering/README.MD):-
 
-See the link for data description.
+See data description in the link above.
 
 ## Algorithm used:-
 
