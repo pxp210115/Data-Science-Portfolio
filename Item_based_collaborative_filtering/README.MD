@@ -30,12 +30,21 @@ We then use the below code to generate top 10 items from similar users.
 
 ![image](https://user-images.githubusercontent.com/100412162/179091680-f630af07-30b5-430f-bad3-e165cdde39fc.png)
 
+Another use case can be getting item based recommendation which aggregate > 4.0 in ratings. We slightly modify the code by changing the heapq.nlargest to the below mentioned code:-
+
+![image](https://user-images.githubusercontent.com/100412162/179096616-9418dadf-5b5e-4f2e-bee4-f15411989a20.png)
 
 ## Predictions:-
 
 ![image](https://user-images.githubusercontent.com/100412162/179091855-bbfdb78e-f67a-44aa-b052-f7e6811ac7e3.png)
 
 We generate the list of items that are similar to the items the user has previously rated. These are ordered in their nature and look towards a greater number of clicks.
+
+When we consider the alternate case of getting only items > 4.0 ratings.
+
+![image](https://user-images.githubusercontent.com/100412162/179096788-0aeef437-8f8a-43b5-8323-788339f8e7a1.png)
+
+We can see that there are some significant changes to the recommendations made. This can only be tested out by A/B Testing as to which model recommendations are better.
 
 ## Result:-
 
