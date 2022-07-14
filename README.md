@@ -6,7 +6,7 @@ A recommender system, or a recommendation system is a subclass of information fi
 
 ![image](https://user-images.githubusercontent.com/100412162/178732625-1887f72f-2bbe-4441-9fb6-ec33e7699aff.png)
 
-Notes 📝 :- [Recommender Systems curated notes](https://github.com/pxp210115/Data-Science-Portfolio/blob/rev_2/Notes/Recommender_systems.MD).
+Notes 📝 :- [Recommender Systems curated notes](https://github.com/pxp210115/Data-Science-Portfolio/blob/main/Notes/Recommender_systems.MD).
 
 Aim:- To predict a list of movie recommendations that the user has never seen/rated and might like to see in the future. 
 
