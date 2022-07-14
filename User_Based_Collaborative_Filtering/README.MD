@@ -32,11 +32,19 @@ The user-similarity matrix looks like the below:-
 
 ![image](https://user-images.githubusercontent.com/100412162/178849802-89ab7693-c949-4e4d-bd80-e383f50bfc63.png)
 
+An alternate use case might be to get items whose simialrity score is > 9.5
+
+![image](https://user-images.githubusercontent.com/100412162/179097305-eb56f90b-3354-4eef-82dc-86c65f53a096.png)
+
 ## Predictions:-
 
 ![image](https://user-images.githubusercontent.com/100412162/178849531-c6264e10-b31b-4fcb-9b6a-1183a0bed9fe.png)
 
 We can see that the user has been recommended the above movies when he himself has rated movies like "The Heat", "The dead man walking" and "Things to do in Denver when you are dead".
+
+Predictions for the alternate use case of getting similarity scores > 0.95.
+
+![image](https://user-images.githubusercontent.com/100412162/179097359-21f44c37-be1f-4bd8-8602-b21dce98cb5b.png)
 
 ## Result:-
 
