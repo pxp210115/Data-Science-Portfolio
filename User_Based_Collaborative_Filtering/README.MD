@@ -1,12 +1,14 @@
 # User- Based Collaborative filtering:-
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 User-Based Collaborative Filtering is a technique used to predict the items that a user might like on the basis of ratings given to that item by the other users who have similar taste with that of the target user.
 
 Similarity between two users can be calculated using this score:-
 
 ![image](https://user-images.githubusercontent.com/100412162/178848297-468a0e72-b18c-4186-a84c-b1b981461b0f.png)
 
-## About the data:-
+## [About the data](https://github.com/pxp210115/Data-Science-Portfolio/blob/rev_2/Content_based_filtering/README.MD):-
 
 Can be seen in the link above.
 

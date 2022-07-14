@@ -56,6 +56,8 @@ We achieve the above performance metrics on content based filtering. These value
 
 ![image](https://user-images.githubusercontent.com/100412162/178828701-e7c74802-7d2e-4dcf-a964-e65b732a8963.png)
 
+### Result:-
+
 For a random user we make predictions on the movies the user has never seen and provide ratings to each of those. In the case of recommender systems the accuracy of the model is not important, but the relevance of the top-k recommendation is. We shall be focusing on better models which have proven to be extremely useful over time such as Collaborative Filtering on the same dataset to compare performance.
 
 
